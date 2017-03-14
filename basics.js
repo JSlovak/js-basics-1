@@ -25,7 +25,6 @@ var myName = "Princess Leia";
 
  function greet(name){
   return console.log ("Hello, my name is " + name);
-
  }
 
 
@@ -45,6 +44,6 @@ var dog = {
   name: "Spot",
   bark: function(){
     console.log (dog.name + " says 'Ruff'.");
-    }
-  };
+  }
+};
 
