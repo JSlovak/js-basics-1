@@ -33,6 +33,9 @@ var myName = "Princess Leia";
  * (there are 6 different data types);
  */
 
+// var dataTypes = ["Boolean", "Undefined & Null", "String", "Number", "Object", "Array"];
+var dataTypes = [true, null, undefined, "String", 13, {exercise: "js basics"}, ["this", "that"]];
+
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
